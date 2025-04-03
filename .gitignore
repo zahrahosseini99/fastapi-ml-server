@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#ignore .joblib files
+
+*.joblib
+*.joblibz
+*.joblibz.gz
+*.joblibz.bz2
+*.joblibz.xz
+*.joblibz.lzma
+*.joblibz.zip
